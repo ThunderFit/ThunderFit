@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="center">
+  <img align="left" height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thunderfit&layout=compact&theme=dracula" />
+  <img height="175px" align="right" src="http://github-readme-streak-stats.herokuapp.com/?user=thunderfit&theme=dark&background=272a36" />
+</div>
+
 <!--
 **ThunderFit/ThunderFit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
